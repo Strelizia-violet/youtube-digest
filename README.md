@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-Turn every YouTube video into a resource for deep learning. YouTube Digest brings transcripts, bilingual translation, AI overviews, explanations, and timestamped notes into one Chrome side panel, so you can study ideas and language without losing your place.
+[![Powered by Supadata](https://supadata.ai/badge/powered-by-supadata-light.svg)](https://supadata.ai/r/F42Y2JR4)Turn every YouTube video into a resource for deep learning. YouTube Digest brings transcripts, bilingual translation, AI overviews, explanations, and timestamped notes into one Chrome side panel, so you can study ideas and language without losing your place.
 
 - Turn captions into a readable, searchable learning resource.
 - Learn languages with the original transcript, a Simplified Chinese translation, or an aligned bilingual view.
